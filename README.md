@@ -55,6 +55,7 @@ Socket programming finds applications in various domains, including web developm
 ## PROGRAM:
 ```
 CLIENT:
+
 import socket
  from datetime import datetime
  
